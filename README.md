@@ -2,11 +2,11 @@
 
 <img src="./assets/baner_1_big.png"/>
 <br/>
-<br/>
 
 I`m a software engineer who is passionate about new technologies, endless frontiers of IT, and the possibilities of the future. I swiftly sail across a vast sea of accessible frameworks, languages, and solutions. My primary stack is PHP Laravel, but I've smeared much much more. Noticing that in most cases the mission and the final goal is more important than code alone I've also developed myself in the areas of business development, long-term strategy, and management. I deeply believe that with the right tools and directions, every problem can be solved and a better future built.
 
 ## I've worked with
+<div style="display:flex; flex-wrap:wrap">
 <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter" />
@@ -38,6 +38,7 @@ I`m a software engineer who is passionate about new technologies, endless fronti
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/stripe" />
+</div>
 
 ## Latest endevours and future plans
 <details>
