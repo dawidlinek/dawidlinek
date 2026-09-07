@@ -125,7 +125,7 @@ PHP/Laravel, Node.js with AdonisJS, Vue.js, SQL, queues, CI/CD.
 <summary><b>KN Solvro</b> · president and head of backend, 2024 to 2025</summary>
 <br/>
 
-<img src="./assets/projects/kn-solvro.jpg" alt="KN Solvro executive board 2024/2025" width="52%"/>
+<img src="./assets/projects/kn-solvro.jpg" alt="KN Solvro, the organisation" width="100%"/>
 
 President of the executive board of the largest student research group at
 Wrocław University of Science and Technology. The organisation grew from about
