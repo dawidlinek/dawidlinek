@@ -78,6 +78,26 @@ process-based parallelism.
 </details>
 
 <details>
+<summary><b>slurm-wcss-skill</b> · the whole research loop on the Wrocław supercomputer, run by an agent</summary>
+<br/>
+
+<img src="./assets/projects/slurm-wcss-skill.jpg" alt="slurm-wcss-skill: the research loop on Bem2 and Lem" width="100%"/>
+
+An agent skill for the Wrocław Supercomputer (WCSS), handling 23 PFLOPS, more
+than 48,000 CPU cores, 304 NVIDIA H100s and 11 PB of storage. It helps you go
+through the whole research loop autonomously: ask what the grant holds, plan the
+question, write the job, cost it before anything is submitted, run it, watch why
+it waits or dies, record the run, evaluate the answer.
+
+Whether you are sweeping a swarm of array batches, training networks, or serving
+a 1.6 TB model across 32 H100s, that is what this skill helps you manage.
+
+[Read more](https://linek.dev/project/slurm-wcss-skill) ·
+[Repository](https://github.com/dawidlinek/slurm-wcss-skill)
+
+</details>
+
+<details>
 <summary><b>PRIORITY</b> · seven-day electricity load forecasts on HPC infrastructure</summary>
 <br/>
 
