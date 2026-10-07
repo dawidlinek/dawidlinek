@@ -4,9 +4,30 @@ I combine five years of IT experience with a passion for software architecture,
 team leadership and machine learning research. Whether I am scaling backend
 systems for 60,000 users, running a 100+ person tech organisation, or forecasting
 electricity demand on supercomputers, I focus on delivering real-world impact.
-I am also the winner of Europe's largest programming contest, HackYeah 2025.
+I am also a two-time HackYeah winner, at Europe's largest hackathon in 2025 and 2026.
 
 ## Working on recently
+
+<details>
+<summary><b>Rogatka</b> · 1st place at HackYeah 2026, a gateway for every AI request in a company</summary>
+<br/>
+
+<img src="./assets/projects/rogatka.jpg" alt="Rogatka: AI Control Layer, KN Solvro, HackYeah 2026" width="100%"/>
+
+Winner of the AI Control Layer category from Goldman Sachs at HackYeah 2026, as
+team and dev lead of a six-person KN Solvro team. Every prompt, response, tool
+call and MCP message passes one gateway with 8 deterministic and semantic
+security layers. Trusted OpenCode and LibreChat clients sign in through
+Keycloak, confidential prompts stay on local Qwen 3.8 and Bielik 11B models,
+everything else goes to Gemini, and a session that touched internal data can
+only get stricter. 9 of the 10 OWASP Top 10 for LLM risks addressed, with an
+audit trail and a dashboard for every action, incident and budget.
+
+[Read more](https://linek.dev/project/hackyeah-2026) ·
+[Video](https://lnkd.in/dwe8PF2V) ·
+[Repository](https://github.com/Solvro/web-rogatka-hackyeah)
+
+</details>
 
 <details>
 <summary><b>Mieszkaniownik</b> · a live map of the Polish housing market: 7 portals, 1.4M offers</summary>
