@@ -24,7 +24,7 @@ only get stricter. 9 of the 10 OWASP Top 10 for LLM risks addressed, with an
 audit trail and a dashboard for every action, incident and budget.
 
 [Read more](https://linek.dev/project/hackyeah-2026) ·
-[Video](https://lnkd.in/dwe8PF2V) ·
+[Video](https://www.youtube.com/watch?v=gjZRbiQMBXg) ·
 [Repository](https://github.com/Solvro/web-rogatka-hackyeah)
 
 </details>
