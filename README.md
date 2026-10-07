@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Dawid Linek — HackYeah 2025 winner, researcher, software developer" width="100%"/>
+<img src="./assets/banner.png" alt="Dawid Linek — HackYeah 2025 & 2026 winner, researcher, software developer" width="100%"/>
 
 I combine five years of IT experience with a passion for software architecture,
 team leadership and machine learning research. Whether I am scaling backend
